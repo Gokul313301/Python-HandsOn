@@ -5,4 +5,4 @@ def calculate_bill(price, quantity):
         total -= discount
     return total
 
-print(calculate_bill(100,24))
+print(calculate_bill(500,5))
