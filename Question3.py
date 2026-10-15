@@ -5,3 +5,5 @@ for i in marks:
         print(i, "has passed with a score of", marks[i])
     else:
         print(i, "has failed with a score of", marks[i])
+
+        
